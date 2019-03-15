@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Loving Life
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Enjoy the beauty of living by your enthusiasm to serve selflessly.
+subheading: >-
+  Love and cherish life; live with a positive and cheerful attitude; see the
+  beauty in own self, others and the world.
 mainpitch:
   title: Why Kaldi
   description: >
