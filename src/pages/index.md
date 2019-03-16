@@ -3,7 +3,7 @@ templateKey: index-page
 title: Loving Life
 image: /img/green.jpg
 heading: Great coffee with a conscience
-subheading: Love and cherish life; live with a positive and cheerful attitude
+subheading: Live with a positive and cheerful attitude
 mainpitch:
   title: Why Kaldi
   description: >
