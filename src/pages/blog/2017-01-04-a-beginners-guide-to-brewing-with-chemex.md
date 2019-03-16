@@ -1,27 +1,36 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: The compassionate way of living
+date: 2019-03-15T13:00:00.000Z
+description: The three principles in life
 tags:
   - brewing
   - chemex
 ---
 ![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+## The Three Beautiful Principles of Enthusiasm
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+1. Enthusiastic at work – Enjoy the beauty of living by your enthusiasm to serve selflessly.
+2. Enthusiastic at helping others – Helping others with patience, kindness and perseverance is a way to build happiness in life.
+3. Loving Life – Love and cherish life; live with a positive and cheerful attitude; see the beauty in own self, others and the world. 
 
-## The little secrets of Chemex brewing
+## The Three Beautiful Principles of Serenity
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+1. Peaceful Heart that is at ease – A truly civilized person would speak, act and serve with a pure heart. In return it brings peace to himself and others.
+2. Inner Peace – A wise and compassionate person keeps personal feelings and emotions in balance in order to embrace inner peace.
+3. Inner Happiness – having a balanced body, mind and spiritual life.  Turn inward, looking within for inner happiness. May more and more people enjoy the bliss of happiness
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+## The Three Beautiful Principles of Simplicity
+
+1. Simplicity of Mind –  Let the mind be at a state of divine equanimity, let our body and mind start afresh, with a child-like heart revealing the beauty of happiness, joy and cheerfulness.
+2. Simple Actions- Live the inner and the outer selves as one, walk the talk, be honest and sincere, easy to get along with , caring for all creatures, live with high moral standards, and being agreeable to everyone.
+3. Simple Living – Live a simple life with modest necessities but nurtured with love, compassion and based on conscience; to reveal the beauty of being simple, humble and natural.
+
+## The Three Beautiful Principles of Social Interactions
+
+1. Universal Courtesy – Learning to live together harmoniously with people and mother Earth. Respects the sanctity of all life forms.
+2. Social Etiquette - Practice Ten Global Sharing of existence, honour, richness, joy, serenity, awakening, achievement, prosperity, ownership and success. 
+3. Public Social Order – Maintain the peace and harmony of shared space and the surrounding environment.
