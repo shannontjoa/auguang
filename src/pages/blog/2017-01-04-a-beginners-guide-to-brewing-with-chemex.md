@@ -7,7 +7,7 @@ tags:
   - compassionate
   - art of living
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/peaceful.jpg)
 
 ## The Three Beautiful Principles of Enthusiasm
 
@@ -20,8 +20,6 @@ tags:
 1. Peaceful Heart that is at ease – A truly civilized person would speak, act and serve with a pure heart. In return it brings peace to himself and others.
 2. Inner Peace – A wise and compassionate person keeps personal feelings and emotions in balance in order to embrace inner peace.
 3. Inner Happiness – having a balanced body, mind and spiritual life.  Turn inward, looking within for inner happiness. May more and more people enjoy the bliss of happiness
-
-
 
 ## The Three Beautiful Principles of Simplicity
 
