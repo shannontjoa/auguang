@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Loving Life
-image: /img/home-jumbotron.jpg
+image: /img/green.jpg
 heading: Great coffee with a conscience
 subheading: Live with a positive and cheerful attitude
 mainpitch:
