@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: The compassionate way of living
+title: The Compassionate Way of Living
 date: 2019-03-15T13:00:00.000Z
 description: The three principles in life
 tags:
