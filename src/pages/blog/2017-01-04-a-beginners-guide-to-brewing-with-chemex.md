@@ -4,8 +4,8 @@ title: The compassionate way of living
 date: 2019-03-15T13:00:00.000Z
 description: The three principles in life
 tags:
-  - brewing
-  - chemex
+  - compassionate
+  - art of living
 ---
 ![chemex](/img/chemex.jpg)
 
