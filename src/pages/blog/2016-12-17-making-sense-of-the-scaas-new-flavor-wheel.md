@@ -1,32 +1,24 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: The Art of Living
+date: 2019-03-15T15:04:00.000Z
+description: The Divine Spritual Life
 tags:
-  - flavor
-  - tasting
+  - dharma
+  - art of living
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+A luxurious material life and an intellectual mind cannot give us eternal happiness, we also need a divine spiritual life in order to have a balanced, rich, happy, and blessed life. We need to have heavenly and worldly lives.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+A divine spiritual life is beyond the sensory organs of eyes, ears, nose, tongue, and body. A divine spiritual life of Maitreya disciples is built from koushou and repentance.
 
-## What the updates mean to you
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Conscience koushou and conscience repentance are not a fixed form of Buddha Etiquettes. It is the best way to express and practice the Heavenly Three Treasures, The boundless dharma of Heavenly Decree and the Heart Dharma of Heavenly Decree in daily life.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+With koushou we remind ourselves of our Buddha Nature / True Self. With a pure heart we embrace Lao Mu (the Heavenly Mother) or Mother Nature, like the mind of a small child that is so pure, innocent and without worldly attachments. Only in this manner are we able to meet Lao Mu the Heavenly Mother.
+ 
+Koushou and repentance help us purify our mind. We need to purify and clean our mind thoroughly, and continuously. We need the guidance of Lao Mu and Buddha to complete it. Our personal efforts and sincerity only are not enough, we need the help from Heaven to get close to Lao Mu and Tri-Buddha, and the thousands of Buddhas and Bodhisatvas. This is the way to achieve a stage of heavenly united mind and body. 
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+To have a divine spiritual life, we don’t need to leave behind our worldly life. Firstly, we need to hold on to our heavenly heart which is our conscience. Let our truthful conscience guide our eyes, ears, nose, tongue, body and mind so that we are able to live in this world without attachments. If we can see things from Heaven’s stage, we will realise that this whole world is one big family. It is how we can extend and deliver unlimited loving-kindness and compassion to all beings.
