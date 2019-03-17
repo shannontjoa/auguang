@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'gatsby';
 import facebook from '../img/social/facebook.svg';
 import instagram from '../img/social/instagram.svg';
-import maitreya from '../../static/img/maitreya.png';
 import logo from '../../static/img/agm.png';
 
 const Navbar = class extends React.Component {
@@ -45,13 +44,6 @@ const Navbar = class extends React.Component {
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="logo" />
-            </Link>
-            <Link to="/" className="navbar-item" title="Logo">
-              <img
-                src={maitreya}
-                alt="AuGuang Maitreya"
-                style={{ width: '3em', height: '3em' }}
-              />
             </Link>
             {/* Hamburger menu */}
             <div
