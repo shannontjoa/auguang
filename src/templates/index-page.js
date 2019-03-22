@@ -16,16 +16,16 @@ export const IndexPageTemplate = ({
   main,
 }) => (
   <div>
-    <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-      }}
-    />
+    <div>
+      <div
+        className="full-width-image margin-top-0 bg-index"
+        style={{
+          backgroundImage: `url(${
+            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          })`,
+        }}
+      />
+    </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
