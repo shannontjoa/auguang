@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
 import BlogRoll from '../components/BlogRoll';
+import { FaAngleDoubleDown } from 'react-icons/lib/fa';
 
 export const IndexPageTemplate = ({
   image,
@@ -24,13 +25,38 @@ export const IndexPageTemplate = ({
             !!image.childImageSharp ? image.childImageSharp.fluid.src : image
           })`,
         }}
-      />
+      >
+        <div
+          style={{
+            color: 'white',
+            position: 'absolute',
+            bottom: '0px',
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+          }}
+        >
+          <div>
+            <FaAngleDoubleDown size={64} />
+          </div>
+          <Link
+            className="btn"
+            style={{ padding: '6px', boxShadow: 'unset' }}
+            to="/#dharma"
+          >
+            Scroll down
+          </Link>
+        </div>
+      </div>
     </div>
-    <section className="section section--gradient">
+    <section className="section section--gradient" id="dharma">
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div
+              className="column is-10 is-offset-1"
+              style={{ paddingTop: 'unset' }}
+            >
               <div className="content">
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">Dharma</h3>
