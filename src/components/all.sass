@@ -49,12 +49,14 @@ $link: $auguang-red
   display: flex
   justify-content: center
   align-items: center
+  @media only screen and (min-width: 1366px) and (-webkit-min-device-pixel-ratio: 1)
+    background-position: center
 
 .full-width-image
     width: 100vw
     height: 100vh
     background-size: cover
-    background-position: bottom
+    background-position: top center
     display: flex
     justify-content: center
     align-items: center
@@ -122,8 +124,11 @@ $menu-label-color: $white-ter
 
 .bg-index
   background-attachment: fixed
-  @media only screen and (orientation: portrait) and (max-width: 768px) 
-    -webkit-background-size: auto 150%;
+  @media only screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 1)
     background-attachment: scroll
+
+  @media only screen and (min-width: 769px) and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1)
+    background-attachment: scroll
+    -webkit-background-size: auto 100%;
 
 @import "~bulma"
