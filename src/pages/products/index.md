@@ -3,7 +3,7 @@ templateKey: 'product-page'
 path: /products
 title: Events
 image: /img/events.jpg
-heading: Great coffee with a conscience
+heading: Events with bright conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

@@ -15,7 +15,7 @@ export default class Index extends React.Component {
       <Layout>
         <section className="section">
           <div className="container">
-            <div className="content">
+            <div className="content" style={{ marginTop: '100px' }}>
               <h1>Contact Us</h1>
               <div className="card" style={{ 'max-width': '400px' }}>
                 <div className="card-image" />

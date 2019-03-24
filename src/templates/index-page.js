@@ -40,6 +40,7 @@ export const IndexPageTemplate = ({
             <FaAngleDoubleDown size={64} />
           </div>
           <Link
+            id="dharma"
             className="btn"
             style={{ padding: '6px', boxShadow: 'unset' }}
             to="/#dharma"
@@ -49,7 +50,7 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </div>
-    <section className="section section--gradient" id="dharma">
+    <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
