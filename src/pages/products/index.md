@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: Events
-image: /img/events.jpg
+image: /img/bamboo.jpg
 heading: Events with bright conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
