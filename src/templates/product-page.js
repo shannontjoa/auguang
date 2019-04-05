@@ -2,6 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
+import instagram from '../../static/img/instagram-logo.png';
+import facebook from '../../static/img/facebook-logo.png';
 
 export const ProductPageTemplate = ({
   image,
@@ -39,6 +41,26 @@ export const ProductPageTemplate = ({
               >
                 {title}
               </h2>
+            </div>
+            <div>
+              <h4>Follow Us</h4>
+              <figure class="image is-96x96">
+                <a
+                  title="instagram"
+                  href="https://instagram.com/Auguangmaitreya/"
+                >
+                  <img src={instagram} alt="instagram logo" />
+                </a>
+              </figure>
+
+              <figure class="image is-96x96">
+                <a
+                  title="instagram"
+                  href="https://www.facebook.com/auguangmaitreya"
+                >
+                  <img src={facebook} alt="facebook logo" />
+                </a>
+              </figure>
             </div>
           </div>
         </div>
