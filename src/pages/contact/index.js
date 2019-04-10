@@ -24,7 +24,7 @@ export default class Index extends React.Component {
                   &nbsp; 1120 Anzac Parade, Maroubra NSW 2035
                   <p />
                   <FaPhone />
-                  &nbsp; +61 9661 8922
+                  &nbsp; +61 02 9661 8922
                   <p />
                   <MdEmail />
                   &nbsp; admin@auguang.info
