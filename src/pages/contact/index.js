@@ -3,6 +3,7 @@ import Layout from '../../components/Layout';
 import MdHome from 'react-icons/lib/md/home';
 import FaPhone from 'react-icons/lib/fa/phone';
 import MdEmail from 'react-icons/lib/md/email';
+import { FaUser } from 'react-icons/lib/fa';
 
 export default class Index extends React.Component {
   constructor(props) {
@@ -20,6 +21,9 @@ export default class Index extends React.Component {
               <div className="card" style={{ 'max-width': '400px' }}>
                 <div className="card-image" />
                 <div className="card-content">
+                  <FaUser />
+                  &nbsp; Visiting hour is between 11 am - 12 noon
+                  <p />
                   <MdHome />
                   &nbsp; 1120 Anzac Parade, Maroubra NSW 2035
                   <p />
