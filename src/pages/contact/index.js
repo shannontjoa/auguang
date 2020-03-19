@@ -22,7 +22,8 @@ export default class Index extends React.Component {
                 <div className="card-image" />
                 <div className="card-content">
                   <FaUser />
-                  &nbsp; Visiting hour is between 11 am - 12 noon
+                  &nbsp; Due to the evolving nature of COVID-19 pandemic, please
+                  call or email for visiting hours
                   <p />
                   <MdHome />
                   &nbsp; 1120 Anzac Parade, Maroubra NSW 2035
