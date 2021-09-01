@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Art of Living
-date: 2019-03-15T15:04:00.000Z
+date: 2021-08-15T15:04:00.000Z
 description: The Divine Spritual Life
 tags:
   - dharma
