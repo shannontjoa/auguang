@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Ten Universal Sharing
-date: 2019-10-19T20:26:52.684Z
+date: 2021-09-19T20:26:52.684Z
 description: universal sharing
 tags:
   - dharma
