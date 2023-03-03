@@ -6,7 +6,7 @@ title: About our values
 
 AuGuang Maitreya is a conscience cultivation centre that based on the cultivation method and teachings of Maitreya Buddha.  The name **Maitreya** (**彌勒**) is derived from the Sanskrit word ‘Maitri’ meaning **benevolent** (**慈**). Buddha is one who is awakened, who has achieved complete enlightenment. Other names of Maitreya Buddha are **Happy Buddha**, **Laughing Buddha** and **Lucky Buddha**. 
 
-### The goal
+### The goal2
 
 Universal Family.
 
