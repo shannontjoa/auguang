@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Loving Life
 image: /img/home.jpg
-heading: Universal Happiness
+heading: Universal Happiness2
 subheading: Live with a positive and cheerful attitude
 mainpitch:
   title: Why Kaldi
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
